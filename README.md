@@ -1,1 +1,3 @@
-# projects
+# Projects
+
+Doing c++ exercises
