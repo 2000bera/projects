@@ -1,3 +1,4 @@
+// boolean practice
 // x = True, y = False, z = False
 // z || (x && (y || z)), !y || (z || !x)
 #include <iostream>
