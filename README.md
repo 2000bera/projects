@@ -1,3 +1,3 @@
 # Projects
 
-Doing c++ exercises
+All About C++ programs
